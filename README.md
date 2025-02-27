@@ -41,13 +41,14 @@
 🔗 [Data Sweeper](https://kanwalrafique-streamlit-growthm-zejan1.streamlit.app/)  
 
 ## 📌 Screenshots  
-![Screenshot 2025-02-26 230907](https://github.com/user-attachments/assets/4ec4886f-8ade-4c45-b504-08fcff529718)
+![Screenshot 2025-02-26 230907](https://github.com/user-attachments/assets/817261fe-e110-4251-965c-49af281cee21)
 
 
 ![Screenshot 2025-02-27 200418](https://github.com/user-attachments/assets/05d05e5f-f6a9-4aa8-8148-4c40d33b6c84)
 
+![Screenshot 2025-02-27 200353](https://github.com/user-attachments/assets/ac4e7e60-7e46-44a4-b54c-b249f5940c9d)
 
-![Uploading Screenshot 2025-02-27 200353.png…]()
+
 
  
 
